@@ -30,17 +30,17 @@ options(knitr.duplicate.label = "allow")
 - Horario: 2 a 4.00 pm
 - Lugar: aula FC-203
 
-![Este repositorio](qr-codes/qr.jpg){width=35%}
+![Este repositorio\n\n](qr-codes/qr.jpg){width=35%}
 
 # Guión sugerido
 
 - [Página web del Servicio Geológico Nacional (SGN)](https://www.sgn.gob.do/). Ir a `Geología y Temáticos>Info Geología>Cartografía Geológica` o a `Geología y Temáticos>Info Geología>Cartografía Geomorfológica`.
 
-![Página web del Servicio Geológico Nacional (SGN)](qr-codes/qr-sgn.jpg){width=35%}
+![Página web del Servicio Geológico Nacional (SGN)\n\n](qr-codes/qr-sgn.jpg){width=35%}
 
 - [Tabla cronoestratigráfica internacional](https://stratigraphy.org/ICSchart/ChronostratChart2021-05Spanish.pdf).
 
-![Tabla cronoestratigráfica internacional](qr-codes/qr-tabla-crono.jpg){width=35%}
+![Tabla cronoestratigráfica internacional\n\n](qr-codes/qr-tabla-crono.jpg){width=35%}
 
 - Intro al mapa geológico y geomorfológico.
 
@@ -49,7 +49,7 @@ options(knitr.duplicate.label = "allow")
   - Mapa en metacrilato.
   - [Mapa geológico en un servidor de mapas](https://geofis.xyz/lm/index.php/view/map/?repository=geo250krd&project=geologico_gpkg).
 
-![Mapa geológico en un servidor de mapas](qr-codes/qr-geologico-en-geofis.jpg){width=35%}
+![Mapa geológico en un servidor de mapas\n\n](qr-codes/qr-geologico-en-geofis.jpg){width=35%}
 
   - Un geológico GeoPDF en QGIS (descargando uno desde la página del SGN). Suele ser muy lenta la representación.
   
@@ -59,13 +59,13 @@ options(knitr.duplicate.label = "allow")
     - Formato GeoTIFF, abre en QGIS.
     - Formato KML, abre en GoogleEarth.
 
-![Mapa geológico escala 1:250,000 en el Drive](qr-codes/qr-drive-mapa.jpg){width=35%}
+![Mapa geológico escala 1:250,000 en el Drive\n\n](qr-codes/qr-drive-mapa.jpg){width=35%}
 
 - Equipamiento de campo: cuaderno de campo, piqueta, lupa, HCl, punzones, GNSS, Munsell
 
 - [App Rockd](https://play.google.com/store/apps/details?id=org.macrostrat.rockd)
 
-![App Rockd](qr-codes/qr-rockd-app.jpg){width=35%}
+![App Rockd\n\n](qr-codes/qr-rockd-app.jpg){width=35%}
 
 - Rocas:
 
