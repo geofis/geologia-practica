@@ -30,7 +30,7 @@ options(knitr.duplicate.label = "allow")
 - Horario: 2 a 4.00 pm
 - Lugar: aula FC-203
 
-![Este repositorio\n\n](qr-codes/qr.jpg){width=35%}
+![Este repositorio<br>](qr-codes/qr.jpg){width=35%}
 
 # Guión sugerido
 

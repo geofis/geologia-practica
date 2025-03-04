@@ -11,8 +11,9 @@ José Martínez, Iris Marcano
 - Lugar: aula FC-203
 
 <figure>
-<img src="qr-codes/qr.jpg" style="width:35.0%" alt="Este repositorio" />
-<figcaption aria-hidden="true">Este repositorio</figcaption>
+<img src="qr-codes/qr.jpg" style="width:35.0%"
+alt="Este repositorio " />
+<figcaption aria-hidden="true">Este repositorio<br></figcaption>
 </figure>
 
 # Guión sugerido
